@@ -1,2 +1,1 @@
-print("Testando")
-print("Sla")
+print("Alguma coisa")
